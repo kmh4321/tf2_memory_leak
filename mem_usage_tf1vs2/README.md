@@ -17,9 +17,10 @@ Loaded the SavedModel output of the notebooks (in `tf1` and `tf2`) in out-the-bo
 
 Output of `docker container stats`:
 
-Overall, TF 2 vs TF 1 memory usage: **8x**
+Overall, TF 2 vs TF 1 memory usage: **17.6x**
 
 | NAME      | CPU %     | **MEM USAGE** / LIMIT     | MEM % |
 | -         | -         | -                         | -     |
+| serving_base | 0.09%  | **13.73MiB** / 7.78GiB    | 0.17% |
 | test-tf2  | 0.04%     | **191.4MiB** / 7.78GiB    | 2.40% |
 | test-tf1  | 0.13%     | **23.77MiB** / 7.78GiB    | 0.30% |
