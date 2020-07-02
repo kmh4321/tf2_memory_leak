@@ -15,7 +15,9 @@
 
 Loaded the SavedModel output of the notebooks (in `tf1` and `tf2`) in out-the-box TF Serving docker container `tensorflow/serving`. 
 
-Output of `docker container stats`: 
+Output of `docker container stats`:
+
+Overall, TF 2 vs TF 1 memory usage: **8x**
 
 | NAME      | CPU %     | **MEM USAGE** / LIMIT     | MEM % |
 | -         | -         | -                         | -     |
