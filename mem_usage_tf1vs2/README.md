@@ -9,7 +9,7 @@
 [View notebook](Memory%20usage%20analysis%20TF%20Keras%201.15%20v%202.2.ipynb)
 
 - In-process SavedModel memory usage for TF2 vs TF1: **14.3x**
-- On-disk space used for SavedModel TF2 vs TF1: **16.6x**
+- On-disk space used for SavedModel TF2 vs TF1: **16.7x**
 
 ### Compare with TF Serving
 
