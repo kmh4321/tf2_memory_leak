@@ -6,5 +6,5 @@
 
 ## Summary
 
-In-process SavedModel memory usage for TF2 vs TF1: **14.3x**
-On-disk space used for SavedModel TF2 vs TF1: **16.6x**
+- In-process SavedModel memory usage for TF2 vs TF1: **14.3x**
+- On-disk space used for SavedModel TF2 vs TF1: **16.6x**
